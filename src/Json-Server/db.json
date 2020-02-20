@@ -1,0 +1,109 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Trần Quang Văn",
+      "position": "Nhân Viên",
+      "academicLevelLevel": "Đại Học",
+      "part": "Kinh Doanh",
+      "dateOfBirth": "15/09/1994",
+      "identityNumber": "206272650",
+      "salary": "8",
+      "email": "vantran2612199@gmail.com",
+      "phoneNumber": "0702765613",
+      "address": "Liên Chiểu - Đà Nẵng"
+    },
+    {
+      "id": 2,
+      "fullName": "Trần Quang Văn",
+      "position": "Nhân Viên",
+      "academicLevelLevel": "Đại Học",
+      "part": "Kinh Doanh",
+      "dateOfBirth": "15/09/1994",
+      "identityNumber": "206272650",
+      "salary": "8",
+      "email": "vantran2612199@gmail.com",
+      "phoneNumber": "0702765613",
+      "address": "Liên Chiểu - Đà Nẵng"
+    },
+    {
+      "id": 3,
+      "fullName": "Trần Quang Văn",
+      "position": "Nhân Viên",
+      "academicLevelLevel": "Đại Học",
+      "part": "Kinh Doanh",
+      "dateOfBirth": "15/09/1994",
+      "identityNumber": "206272650",
+      "salary": "8",
+      "email": "vantran2612199@gmail.com",
+      "phoneNumber": "0702765613",
+      "address": "Liên Chiểu - Đà Nẵng"
+    },
+    {
+      "fullName": "Trần Quang Văn 222",
+      "position": "Nhân Viên",
+      "academicLevelLevel": "Đại Học",
+      "part": "Kinh Doanh",
+      "dateOfBirth": "15/09/1994",
+      "identityNumber": "206272650",
+      "salary": "8",
+      "email": "vantran2612199@gmail.com",
+      "phoneNumber": "0702765613",
+      "address": "Liên Chiểu - Đà Nẵng",
+      "id": 4
+    },
+    {
+      "fullName": "Trần Quang Văn",
+      "position": "aaaaaaaaaa",
+      "academicLevelLevel": "bbbbbbbbb",
+      "part": "cccccccccccc",
+      "dateOfBirth": "1999-12-26",
+      "identityNumber": "22222222222",
+      "salary": "2222222",
+      "email": "vantran26121999@gmail.com",
+      "phoneNumber": "0702765613",
+      "address": "Liên Chiểu - Đà Nẵng",
+      "id": 5
+    },
+    {
+      "fullName": "mr Vanw",
+      "position": "aaaaa",
+      "academicLevelLevel": "ccccccccc",
+      "part": "aaaaaaaaa",
+      "dateOfBirth": "19999-12-26",
+      "identityNumber": "121221212",
+      "salary": "8888888",
+      "email": "vantran26121999@gmail.com",
+      "phoneNumber": "0702765613",
+      "address": "Lieen Chieu - Da Nang",
+      "id": 6
+    },
+    {
+      "fullName": "adas",
+      "position": "asdasd",
+      "academicLevelLevel": "asdasd",
+      "part": "asdads",
+      "dateOfBirth": "1111-12-26",
+      "identityNumber": "111111111",
+      "salary": "8",
+      "email": "vantran26121999@gmail.com",
+      "phoneNumber": "0902765613",
+      "address": "Thanh Khê - Đà Nẵng",
+      "id": 7
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "fullName": "Mr. Văn",
+      "email": "vantran26121999@gmail.com",
+      "phoneNumber": "0702765613"
+    },
+    {
+      "id": 2,
+      "fullName": "Mr. Văn",
+      "email": "vantran26121999@gmail.com",
+      "phoneNumber": "0702765613"
+    }
+  ]
+}
